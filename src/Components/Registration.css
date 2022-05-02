@@ -1,0 +1,43 @@
+
+.heading2{
+   
+    font-family: sans-serif;
+    font-size: 50px;
+    font-weight: 550;
+ margin-top: 100px;
+}
+.container{
+    display: flex;
+    float: left;
+    margin-top: 100px;
+}
+.heading2 span{
+    color: rgb(71, 1, 201);
+}
+.form-container{
+    height: 400px;
+    width: 400px;
+  
+ margin-left: 30px;
+  
+    
+}
+.form-container input[type="radio"]{
+    margin-left: -190px;
+}
+#radio-upper{
+    text-align: center;
+    font-weight: 500;
+}
+.form-container input{
+    margin-top: 20px;
+}
+
+.radio{
+    margin-left: 150px;
+    font-weight: 500;
+}
+
+.form-container div{
+    font-size: 20px;
+}

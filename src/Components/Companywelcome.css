@@ -1,0 +1,30 @@
+.logo-circle{
+    border-radius: 50%;
+    background-color: rgb(71, 1, 201);
+    height: 200px;
+    width: 200px;
+
+}
+.company-container img{
+margin-top: -300px;
+}
+.company-container{
+    margin-left: 300px;
+}
+.logo-container{
+    margin-top: 50px;
+}
+.logo-container h2{
+   margin-left: 70px;
+}
+button{
+    height: 50px;
+    width: 100px;
+    justify-content: right;
+    font-size: 25px;
+    color: white;
+    border-radius: 30px;
+    margin-left: 1000px;
+    background-color: rgb(87, 0, 185);
+    border: 2px solid rgb(87, 0, 185);
+}

@@ -1,0 +1,47 @@
+img{
+    height: 500px;
+    
+}
+.container{
+    display: flex;
+    float: left;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.container img{
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.upper3 {
+    font-size: 50px;
+    font-weight: 600;
+}
+.circle-logo{
+    border-radius: 50%;
+    background-color: rgb(71, 1, 201);
+    height: 100px;
+    width: 100px;
+margin-left: 300px;
+margin-top: -70px;
+}
+
+.welcome{
+    font-size: 65px;
+    font-weight: 700;
+    color: rgb(71, 1, 201);
+}
+.upper3 span{
+color: rgb(71, 1, 201);
+}
+.upper3 h2{
+    color: rgb(71, 1, 201);
+}
+  .link{
+
+    text-decoration: none;
+    color: white;
+    background-color: rgb(71, 1, 201);
+    border-radius: 40px;
+padding-left: 10px;
+padding-right: 10px;
+} 
